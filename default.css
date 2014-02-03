@@ -1,0 +1,22 @@
+h1 {
+	font-family: Helvetica;
+	font-style: normal;
+	color: #4585E6;
+	text-align: center;
+}
+
+
+p {
+	background: white;
+	font-family: helvetica;
+	font-size: 24px;
+	color: green;
+}
+
+div.ln {
+	padding-bottom: 0px;
+	padding: center;
+	width: 100px;
+	height: -5px;
+	border: solid #000000;
+}
