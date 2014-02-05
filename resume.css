@@ -1,0 +1,61 @@
+h1 {
+	font-size: 32px;
+	font-family: Helvetica;
+	font-style: bold;
+	background-color: white;
+	background-position: center;
+	font-color: black;
+	text-align: center;
+}
+
+h2 {
+	font-size: 22px;
+	font-family: Helvetica;
+	font-style: normal;
+	background-color: white;
+	background-position: center;
+	font-color: black;
+	text-align: center;
+}
+
+h3 {
+	font-size: 26px;
+	font-family: Helvetica;
+	font-style: normal;
+	background-color: white;
+	color: black;
+	text-align: left;
+	padding-left: 20px;
+}
+
+
+h4 {
+	font-size: 18px;
+	font-family: Helvetica;
+	font-style: oblique;
+	font-color: black;
+	padding-left: 25px;
+}
+
+ul {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+p {
+	font-size: 14px;
+	font-family: Helvetica;
+	font-style: normal;
+	font-color: black;
+	padding-left: 25px;
+}
+
+div.ln {
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 10px;
+	color: black;
+	width: 100px;
+	height: 5px;
+	border-bottom: solid #000000;
+}
