@@ -49,13 +49,3 @@ p {
 	font-color: black;
 	padding-left: 25px;
 }
-
-div.ln {
-	text-align: center;
-	padding-top: 5px;
-	padding-bottom: 10px;
-	color: black;
-	width: 100px;
-	height: 5px;
-	border-bottom: solid #000000;
-}

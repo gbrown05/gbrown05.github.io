@@ -1,0 +1,24 @@
+h1 {
+	font-family: "HelveticaNeue-Light";
+	font-weight: 300;
+	font-size: 32px;	
+}
+
+h2 {
+	font-family: "HelveticaNeue-Light";
+	font-weight: 300;
+	font-size: 26px;
+}
+
+.textwrap {
+	margin-left: 10%;
+	margin-right: 20%;
+	border-top: 20%;
+	border-width: 80%;
+	border-color: #2E2E2E;
+	font-family: Helvetica;
+}
+
+hr {
+	
+}

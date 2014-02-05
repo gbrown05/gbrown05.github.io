@@ -1,22 +1,33 @@
 h1 {
-	font-family: Helvetica;
-	font-style: normal;
-	color: #4585E6;
+	font-family: "HelveticaNeue-Light";
+	font-weight: 500;
+	font-size: 200%;
+	color: #2E2E2E;
 	text-align: center;
+	text-decoration: none;
 }
 
 
 p {
 	background: white;
 	font-family: helvetica;
-	font-size: 24px;
 	color: green;
 }
 
-div.ln {
-	padding-bottom: 0px;
-	padding: center;
-	width: 100px;
-	height: -5px;
-	border: solid #000000;
+h2 {
+   font-family: "HelveticaNeue-Light";
+   font-weight: 300;
+   text-align: center;
+   word-spacing: 40px;
+}
+
+h2 a {
+   text-decoration: none;
+}
+
+#centerpage {
+	border-style: groove;
+	border-radius: 5px;
+	margin: 10%;
+	padding: 10%;
 }
