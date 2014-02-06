@@ -1,33 +1,14 @@
-h1 {
-	font-size: 32px;
-	font-family: Helvetica;
-	font-style: bold;
-	background-color: white;
-	background-position: center;
-	font-color: black;
-	text-align: center;
+#name {
+	text-decoration: none;
+}
+
+#name:hover {
+	text-decoration: none;
 }
 
 h2 {
-	font-size: 22px;
-	font-family: Helvetica;
-	font-style: normal;
-	background-color: white;
-	background-position: center;
-	font-color: black;
-	text-align: center;
+	font-size: 24px;
 }
-
-h3 {
-	font-size: 26px;
-	font-family: Helvetica;
-	font-style: normal;
-	background-color: white;
-	color: black;
-	text-align: left;
-	padding-left: 20px;
-}
-
 
 h4 {
 	font-size: 18px;
@@ -40,12 +21,4 @@ h4 {
 ul {
 	font-family: Helvetica;
 	font-size: 14px;
-}
-
-p {
-	font-size: 14px;
-	font-family: Helvetica;
-	font-style: normal;
-	font-color: black;
-	padding-left: 25px;
 }
