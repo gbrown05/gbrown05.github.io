@@ -54,7 +54,7 @@ h2 a {
 .button1 {
 	font-family: "HelveticaNeue-Light";
 	color: black;
-	text-decoration none;
+	text-decoration: none;
 	border-radius: 5px;
 	border-spacing: 5px;
 	background-color: #BABABA;
@@ -73,7 +73,7 @@ h2 a {
 .button2 {
 	font-family: "HelveticaNeue-Light";
 	color: black;
-	text-decoration none;
+	text-decoration: none;
 	font-style: normal;
 	border-radius: 5px;
 	border-spacing: 5px;

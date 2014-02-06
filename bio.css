@@ -22,13 +22,14 @@ p {
 .textwrap-1 {
 	margin-left: 10%;
 	margin-right: 40%;
-	border-top: 20%;
+	/*border-top: 20%;
 	border-width: 80%;
-	border-color: #2E2E2E;
+	*/border-color: #2E2E2E;
 	font-family: Helvetica;
 }
 
 .textwrap-2 {
+	text-decoration: none;
 	margin-left: 10%;
 	margin-right: 45%;
 	margin-top: 0%;
