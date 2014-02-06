@@ -1,15 +1,19 @@
 h1 {
 	font-family: "HelveticaNeue-Light";
 	font-weight: 300;
-	font-size: 32px;
+	font-size: 36px;
 	text-align: left;	
 }
 
 h2 {
 	font-family: "HelveticaNeue-Light";
 	font-weight: 300;
-	font-size: 20px;
+	font-size: 24px;
 	text-align: left;
+}
+
+p {
+	font-size: 18px;
 }
 
 .textwrap {
@@ -22,7 +26,9 @@ h2 {
 }
 
 .headshot {
-	border-radius: 5px;
+	width: 100px;
+	height: 100px;
+	border-radius: 25px;
 }
 
 .horizline {

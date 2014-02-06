@@ -15,7 +15,8 @@ h3 {
 	font-family: "HelveticaNeue";
 	font-weight: 400;
 	font-size: 20px;
-	text-align: left;	
+	text-align: left;
+	padding-bottom: 0px;
 }
 
 h4 {
@@ -39,6 +40,11 @@ h4 {
 }*/
 
 ul {
+	font-family: Helvetica;
+	font-size: 14px;
+}
+
+.skills {
 	font-family: Helvetica;
 	font-size: 14px;
 }
