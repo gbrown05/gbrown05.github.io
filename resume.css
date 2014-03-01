@@ -16,6 +16,11 @@ h3 {
 	color: black;
 }
 
+#name:visited {
+	text-decoration: none;
+	color: black;
+}
+
 h4 {
 	font-family: "HelveticaNeue-Light";
 	font-weight: 300;
