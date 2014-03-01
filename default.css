@@ -67,11 +67,11 @@ h2 a {
 
 .button1 {
 	font-family: "HelveticaNeue-Light";
-	color: black;
+	color: white;
 	text-decoration: none;
 	border-radius: 5px;
 	border-spacing: 5px;
-	background-color: #BABABA;
+	background-color: #4F4F4F;
 	padding: 5px;
 	margin-left: auto;
 	margin-right: 8px;
@@ -86,12 +86,12 @@ h2 a {
 
 .button2 {
 	font-family: "HelveticaNeue-Light";
-	color: black;
+	color: white;
 	text-decoration: none;
 	font-style: normal;
 	border-radius: 5px;
 	border-spacing: 5px;
-	background-color: #BABABA;
+	background-color: #4F4F4F;
 	padding: 5px;
 	margin-right: auto;
 	margin-left: 8px;
