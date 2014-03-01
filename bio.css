@@ -19,6 +19,12 @@ p {
 	padding-right: 10px;
 }
 
+a:link {
+	text-decoration: underline;
+	color: black;
+	font-style: normal;
+}
+
 a:visited {
 	text-decoration: none;
 	color: black;
