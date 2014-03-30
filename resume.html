@@ -15,8 +15,15 @@
 	<div class="reswrapper">
 			<div id="name">
 				<h1><a href="index.html">George S. Brown</a></h1>
-				<h2><a href="mailto:george.brown@tufts.edu">george.brown@tufts.edu</a></h2>
+				<h2><a class="email" id="email"
+                                href="mailto:george.brown [at] tufts [dot] edu">george.brown@tufts.edu</a></h2>
 			</div>
+    <script type="text/javascript" charset="utf-8">
+    var user = 'george.brown';
+    var domain = "tufts.edu";
+    document.getElementById("email").innerHTML = '<a href="' + 'mailto:' 
+    + user + '@' + domain + '">george.brown@tufts.edu</a>' ;
+    </script>                
 
 		<div id="education">
 			<h3>Education</h3>
