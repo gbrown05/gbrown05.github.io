@@ -52,13 +52,15 @@ h2 a {
 }
 
 .centerpage {
-	border-style: groove;
-	border-radius: 5px;
+	border-style: solid;
+	border-radius: 13px;
 	margin: 10%;
 	padding: 7%;
 	text-decoration: none;
 	color: black;
 	font-style: bold;
+	border-color: gray;
+	border-width: 8px;
 }
 
 .button1 {
