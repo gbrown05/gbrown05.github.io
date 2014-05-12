@@ -65,3 +65,9 @@ a:visited {
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
+@media (max-width: 600px) {
+	.headshot-2 {
+		display: none;
+	}
+}
