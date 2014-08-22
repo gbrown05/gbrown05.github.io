@@ -60,7 +60,7 @@ html {
 }
 
 @media (max-width: 452px) {
-    #amigosmap {
+    #amigosmap, #desktp {
     display: none;
   }
 }
